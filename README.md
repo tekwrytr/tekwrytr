@@ -22,7 +22,7 @@ I have created a wide variety of digital content / technical documentation for m
 
 * 🌍  I'm based in Georgia (Southern US)
 * 🔭  I’m currently working on improving my Github portfolio ;-).
-* 🖥️  See my writing sample portfolio at [Steve Thomas Writing Portfolio](http://sites.google.com/view/thestevethomaswritingportfolio/home).
+* 🖥️  See my writing sample portfolio at [Steve Thomas Writing Portfolio](https://sites.google.com/view/thestevethomaswritingportfolio?usp=sharing).
 * ✉️  You can contact me at [s.w.thomas@outlook.com](mailto:s.w.thomas@outlook.com).
 * 💬  Ask me about anything related to technical writing, content development, or document management (really, anything related to technical or digital communication!).
 * 🧠  I'm currently learning Google Analytics, AWS Cloud Practitioner.

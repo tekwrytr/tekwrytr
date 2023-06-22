@@ -60,8 +60,10 @@ Some quick facts about me:
 </p>
 
 ## Site Navigation
-
-
+### Overview
+TBD
+### IT Project Experience
+ [IT Writing Experience](tekwrytr/doc3.mdx)
 ## Socials
 
 <p align="left"> <a href="https://www.github.com/tekwrytr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/steven-thomas-ma-c-isso- cmpic-7b0395125 (LinkedIn)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
